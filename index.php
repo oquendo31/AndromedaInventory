@@ -28,7 +28,7 @@ if (!isset($_REQUEST['x']))
 if ($x==1)
 	echo "<br><h3 align='center' style='color:#ffffff' > Usuario no registrado con los datos ingresados, vuelva a intentar";
 if ($x==2)
-	echo "<br><h3 align='center' style='color:#ffffff'> Deben Iniciar Sesión para poder ingresar a la Aplicación";
+	echo "<br><h3 align='center' style='color:#ffffff'> Deben Iniciar Sesión para poder ingresar a la plicación";
 if ($x==3)
 	echo "<br><h3 align='center' style='color:#ffffff'> El Usuario ha cerrado la sesión";
 ?>
