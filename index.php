@@ -30,5 +30,5 @@ if ($x==1)
 if ($x==2)
 	echo "<br><h3 align='center' style='color:#ffffff'> Deben Iniciar Sesión para poder ingresar a la Aplicación";
 if ($x==3)
-	echo "<br><h3 align='center' style='color:#ffffff'> El Usuario ha cerrado la Sesión";
+	echo "<br><h3 align='center' style='color:#ffffff'> El Usuario ha cerrado la Sesión1";
 ?>
